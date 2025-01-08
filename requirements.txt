@@ -1,0 +1,15 @@
+langchain-nomic
+langchain_community
+tiktoken
+langchainhub
+chromadb
+langchain
+langgraph
+tavily-python
+nomic[local]
+langchain-text-splitters
+
+langchain_core
+langchain_community
+langchain_experimental
+langchain-ollama
